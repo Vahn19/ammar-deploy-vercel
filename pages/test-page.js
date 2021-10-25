@@ -10,7 +10,7 @@ export default function testPage(){
 
             <main className={styles.main}>
                 <h1 className={styles.title}>
-                    Test Deployment Vercel
+                    Test Deployment Vercel dan Heroku
                 </h1>
             </main>
         </>
